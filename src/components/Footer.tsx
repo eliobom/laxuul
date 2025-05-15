@@ -48,10 +48,10 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-medium mb-4">Contacto</h4>
             <ul className="space-y-2 text-sm text-gray-400">
-              <li>Calle Playa Paraíso #123</li>
+              <li>tierra bomba #123</li>
               <li>Riviera Maya, Quintana Roo</li>
-              <li>México</li>
-              <li>+52 (984) 123-4567</li>
+              <li>colombia</li>
+              <li>+57 (301) 359-0755</li>
               <li>
                 <a href="mailto:contacto@hotellaxuli.com" className="hover:text-white transition-colors">
                   contacto@hotellaxuli.com

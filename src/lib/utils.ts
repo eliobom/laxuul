@@ -14,7 +14,7 @@ export function formatDate(date: Date): string {
 }
 
 export function formatCurrency(amount: number): string {
-  return new Intl.NumberTimeFormat('es-ES', {
+  return new Intl.NumberFormat('es-ES', {
     style: 'currency',
     currency: 'MXN',
     minimumFractionDigits: 0
